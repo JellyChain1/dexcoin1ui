@@ -20,7 +20,7 @@ To buy DEX Coins with USDC, follow these steps:
 
 **3.1 Wallet Connection:** Ensure that you are connected to your DEX Coin 1 wallet and have access to your USDC funds.
 
-**3.2 Navigate to Purchase:** Access the DEX Coin 1 platform and go to the "Buy DEX Coins with USDC" section.
+**3.2 Navigate to Purchase:** Access the DEX Coin 1 Website and go to the "Buy DEX Coins with USDC" section.
 
 **3.3 Enter Amount:** Specify the amount of DEX Coins (DEX1) you wish to purchase in exchange for your USDC.
 
@@ -32,7 +32,7 @@ To buy DEX Coins with USDC, follow these steps:
 
 **4. Transaction Fees**
 
-There is no fees for the purchase of DEX Coins. These fees are subject to change and will be displayed on the platform at the time of purchase. Users are advised to carefully review the fee details before confirming the transaction.
+There are no fees for the purchase of DEX Coins. These fees are subject to change and will be displayed on the website at the time of purchase. Users are advised to carefully review the fee details before confirming the transaction.
 
 Everyone must pay blockchain gas for each transaction.
 
